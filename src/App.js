@@ -1,7 +1,5 @@
-//import logo from './logo.svg';
 import './App.css';
 import List from "./components/List";
-// import './src/components/Card';
 
 function App() {
   return (
