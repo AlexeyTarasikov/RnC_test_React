@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import Card from "./Card";
 
 const List = () => {
-  // const [value, setValue] = useState("");
   const [cards, setCards] = useState([
     {
       id: "1",
