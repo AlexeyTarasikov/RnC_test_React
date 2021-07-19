@@ -30,16 +30,7 @@ body {
   padding-bottom: 50px;
   padding-left: 10px;
   padding-right: 10px;
-
 }
-
-/* .header-inner {
-
-}
-
-.content {
-
-} */
 
 .content-inner {
   background-color: #f0f9e7;
@@ -87,7 +78,6 @@ body {
 
 .card-top__left-title {
   margin-bottom: 5px;
-
 }
 
 .card-bottom {
